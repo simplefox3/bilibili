@@ -2,7 +2,7 @@
 // @name         Bilibili 哔哩哔哩查看原图
 // @icon         https://t.bilibili.com/favicon.ico
 // @namespace    https://lolico.moe/
-// @version      2.3.5
+// @version      2.3.4
 // @description  方便在B站内查看各种图片的原图，支持动态、专栏
 // @author       Jindai Kirin
 // @match        https://t.bilibili.com/*
